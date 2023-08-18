@@ -23,6 +23,8 @@ Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 Plug 'https://github.com/savq/melange-nvim' " Melange NeoVim theme ( kinda like gruvbox )
+Plug 'OmniSharp/omnisharp-vim' " OmniSharp Language Server for C#
+Plug 'dense-analysis/ale' " Plugin that provides linting (syntax checking and semantic errors)
 
 set encoding=UTF-8
 
